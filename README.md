@@ -192,7 +192,7 @@ This project is maintained on a best-effort basis. Use of the source code is gov
 
 ## Maintainer
 
-Contrastly is built and maintained by Sola Studio, with ongoing development by Yoko Shiina.
+Contrastly is built and maintained by Yoko Shiina, with ongoing development by Yoko Shiina.
 
 - Live app: https://contrastly.solastudio.studio/
 - Source code: https://github.com/sola-studio/contrastly
@@ -202,7 +202,7 @@ Contrastly is built and maintained by Sola Studio, with ongoing development by Y
 
 Contrastly references Tailwind CSS color names and palette values, and calculates contrast results based on WCAG AA / AAA contrast thresholds.
 Tailwind CSS is created by Tailwind Labs and licensed under the MIT License. WCAG is published by the World Wide Web Consortium (W3C).
-Contrastly is an independent tool from Sola Studio and is not affiliated with Tailwind Labs or W3C.
+Contrastly is an independent tool from Yoko Shiina and is not affiliated with Tailwind Labs or W3C.
 
 ## License
 

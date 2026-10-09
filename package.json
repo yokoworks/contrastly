@@ -4,7 +4,7 @@
   "private": true,
   "description": "A lightweight browser-based color contrast checker for Tailwind CSS, custom hex values, and semantic color decisions.",
   "license": "MIT",
-  "author": "Sola Studio",
+  "author": "Yoko Shiina",
   "homepage": "https://contrastly.solastudio.studio/",
   "repository": {
     "type": "git",

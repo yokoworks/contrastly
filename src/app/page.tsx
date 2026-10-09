@@ -7,7 +7,7 @@ import { SkipLinks } from '@/components/layout/SkipLinks';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Contrastly – Tailwind CSS Color Contrast Checker | Sola Studio',
+  title: 'Contrastly – Tailwind CSS Color Contrast Checker',
   description:
     'Select colors directly from the Tailwind CSS palette or enter custom hex values to check WCAG color contrast without switching tools.',
   alternates: {

@@ -30,7 +30,7 @@ export default function About() {
         </p>
         <div className="mt-12 sm:mt-10 xl:mt-3">
           <Link
-            href="https://github.com/sola-studio/contrastly#how-contrast-is-calculated"
+            href="https://github.com/yokoworks/contrastly#how-contrast-is-calculated"
             className="inline-flex items-center gap-1.5 text-sm text-blue-700 underline underline-offset-2 hover:text-blue-800 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-blue-700 focus-visible:ring-offset-2 rounded"
             target="_blank"
             rel="noopener noreferrer"
