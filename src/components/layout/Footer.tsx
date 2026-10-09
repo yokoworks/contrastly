@@ -41,19 +41,7 @@ export const Footer = () => {
         </Link>
       </div>
 
-      {SOLA_STUDIO_URL && (
-        <p className="text-xs">
-          Built by{' '}
-          <OuterLink
-            href={SOLA_STUDIO_URL}
-            label="Sola Studio"
-            className={classNameForLink}
-          />
-          · Open source color contrast tool
-        </p>
-      )}
-
-      <p className="text-xs">&copy; {thisYear} Sola Studio</p>
+      <p className="text-xs">&copy; {thisYear} Yoko Shiina</p>
     </footer>
   );
 };

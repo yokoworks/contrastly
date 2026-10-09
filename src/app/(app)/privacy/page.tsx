@@ -4,7 +4,7 @@ import StaticPageWrapper from '@/components/layout/StaticPageWrapper';
 import LegalPageContent from '@/components/legal/LegalPageContent';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy – Contrastly | Sola Studio',
+  title: 'Privacy Policy – Contrastly',
   description:
     'See how Contrastly handles color data, cookies, and analytics, including local browser processing and Google Analytics based on your consent choices.',
   alternates: { canonical: '/privacy' },

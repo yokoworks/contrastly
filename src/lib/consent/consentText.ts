@@ -30,7 +30,7 @@ export const consentText: ConsentText = {
       {
         title: 'Analytics',
         description:
-          'These optional technologies help Sola Studio understand aggregate usage of Contrastly, such as pages viewed, approximate engagement, device or browser information, and general geographic region. This includes Google Analytics with consent mode. When analytics consent is denied, Google Analytics may still receive cookieless pings or similar non-cookie signals that do not read or write analytics cookies. Analytics cookies and full analytics measurement are enabled only when you accept analytics. We do not use analytics data for targeted advertising, and we do not intentionally send selected colors, custom color values, or contrast results to analytics.',
+          'These optional technologies help us understand aggregate usage of the App, such as pages viewed, approximate engagement, device or browser information, and general geographic region. This includes Google Analytics with consent mode. When analytics consent is denied, Google Analytics may still receive cookieless pings or similar non-cookie signals that do not read or write analytics cookies. Analytics cookies and full analytics measurement are enabled only when you accept analytics. We do not use analytics data for targeted advertising, and we do not intentionally send selected colors, custom color values, or contrast results to analytics.',
         linkedCategory: 'analytics',
       },
     ],

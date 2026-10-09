@@ -5,7 +5,7 @@ const privacyArticles: LegalArticleProps[] = [
     id: 'privacy-policy_no-directly-provided-data',
     title: '1. Information We Do Not Ask You to Provide',
     content: [
-      'Sola Studio does not ask you to provide directly identifying information such as your name, email address, account credentials, or payment information when using this App.',
+      'Contrastly does not ask you to provide directly identifying information such as your name, email address, account credentials, or payment information when using this App.',
       'We do not provide user accounts, login features, or member-only areas in this App.',
       'We do not upload, save, or store the colors you select, custom color values you enter, or contrast results on our servers.',
     ],
@@ -15,7 +15,7 @@ const privacyArticles: LegalArticleProps[] = [
     title: '2. Local Processing of Color Data',
     content: [
       'Color selections, custom color values, contrast checks, and related calculations are processed within your browser.',
-      'Your color combinations, contrast results, and design-related inputs are not transmitted to Sola Studio servers.',
+      'Your color combinations, contrast results, and design-related inputs are not transmitted to Contrastly servers.',
       'Because this App is a browser-based tool, information visible on your screen may still be accessible to anyone who can access your device, browser, or screen.',
     ],
   },
@@ -36,7 +36,7 @@ const privacyArticles: LegalArticleProps[] = [
     title: '4. Analytics',
     content: [
       'We use Google Analytics with consent mode to understand aggregate usage of the App, such as pages viewed, approximate engagement, device or browser information, and general geographic region.',
-      'Analytics helps Sola Studio understand how the App is used and improve product quality, usability, and accessibility.',
+      'Analytics helps us understand how the App is used and improve its quality, usability, and accessibility.',
       'When analytics consent is denied, Google Analytics may still receive cookieless pings or similar non-cookie signals that do not read or write analytics cookies.',
       'When analytics consent is granted, Google Analytics may use first-party cookies or similar technologies to measure usage.',
       'We do not use Google Analytics to identify individual users, and we do not intentionally send names, email addresses, account credentials, color selections, custom color values, contrast results, or project-specific design data to Google Analytics.',
@@ -47,7 +47,7 @@ const privacyArticles: LegalArticleProps[] = [
     id: 'privacy-policy_third-party-services',
     title: '5. Third-Party Services',
     content: [
-      'Google Analytics is provided by Google and may process analytics data according to Google’s own terms, policies, and technical settings.',
+      'Google Analytics is provided by Google and may process analytics data according to Google’s own terms, policies, and technical settings. Contrastly does not control Google’s processing of analytics data.',
       'The consent banner or consent management library used in this App may store your consent choice locally in your browser.',
       'Your browser, device, extensions, privacy settings, and cookie preferences may affect how analytics and consent-related storage operate.',
       'You can also limit analytics tracking through browser privacy controls, cookie settings, tracking protection tools, or Google’s available opt-out tools.',
@@ -58,10 +58,10 @@ const privacyArticles: LegalArticleProps[] = [
     id: 'privacy-policy_data-minimization',
     title: '6. Data Minimization and App Scope',
     content: [
-      'Sola Studio aims to keep this App minimal and privacy-conscious by avoiding accounts, uploads, server-side storage of color data, and advertising-based tracking.',
+      'Contrastly aims to keep this App minimal and privacy-conscious by avoiding accounts, uploads, server-side storage of color data, and advertising-based tracking.',
       'This App is provided as a lightweight color contrast checking tool for frontend, design, educational, and accessibility-related use.',
-      'This policy applies to the official hosted version of the App operated by Sola Studio.',
-      'This policy does not cover third-party forks, copies, modified versions, self-hosted deployments, other websites, services, repositories, or projects unless they are expressly operated by Sola Studio or link to this policy directly.',
+      'This policy applies to the official hosted version of the App operated by Yoko Shiina.',
+      'This policy does not cover third-party forks, copies, modified versions, self-hosted deployments, other websites, services, repositories, or projects unless they are expressly operated by Yoko Shiina.',
     ],
   },
   {

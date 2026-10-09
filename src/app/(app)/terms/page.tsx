@@ -4,9 +4,9 @@ import LegalPageContent from '@/components/legal/LegalPageContent';
 import StaticPageWrapper from '@/components/layout/StaticPageWrapper';
 
 export const metadata: Metadata = {
-  title: 'Terms of Use – Contrastly | Sola Studio',
+  title: 'Terms of Use – Contrastly',
   description:
-    'Read the terms for using the official hosted version of Contrastly, a free browser-based color contrast checker operated by Sola Studio.',
+    'Read the terms for using the official hosted version of Contrastly, a free browser-based color contrast checker.',
   alternates: { canonical: '/terms' },
 };
 
